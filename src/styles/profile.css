@@ -1,0 +1,15 @@
+.profile{
+   width: 30%;
+   margin: auto;
+    color: #aaa;
+    background-color: #191e25;
+    line-height: 300%;
+    border-radius: 10px;
+}
+.profile ul li{
+    list-style: none;
+}
+.profile li a{
+    text-decoration: none;
+    color: #aaa;
+}

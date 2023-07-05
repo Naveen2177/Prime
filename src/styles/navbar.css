@@ -1,0 +1,43 @@
+.head{
+    position: sticky;
+    top: 0; 
+    background: #00050d;
+    top: 4px;
+    z-index:1;
+    width: 65%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+/* .dropdown-menu li a{
+    color: white;
+    padding: 5px;
+    
+}
+.dropdown-menu li{
+    background-color: #00050d;
+    width: max-content;
+    text-align: center;
+    min-width: 100%;
+} */
+.icon a i{
+    font-weight: 900;
+    margin-left: 50px;
+    margin-top: 24px;
+    color: darkgray;
+}
+
+.icon1 a i{
+    margin-top: 26px;
+    color: darkgray;
+    font-weight: 900;
+    margin-left: 230px;
+}
+
+
+.n2 li{
+    list-style: none;
+}
+.n2 li a{
+    text-decoration: none;
+}
